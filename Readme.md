@@ -1,5 +1,6 @@
 # SteelSeries Clock app
 Repository for all the code I have written to display the time on my led display on the keyboard.
+All the information about the API can be found here: https://github.com/SteelSeries/gamesense-sdk.
 
 It wasn't really a success. The API wasn't stable (in my eyes) and it didn't work as planned. 
 Therefore, I abandoned the project.
